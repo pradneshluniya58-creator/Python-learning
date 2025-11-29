@@ -21,6 +21,6 @@ Learning Python for competitive programming and corporate projects.
 - See: `phase-2-leetcode/`
 
 ## Progress
-- [x] Phase 0: Learning Python basics
+- [ ] Phase 0: Learning Python basics
 - [ ] Phase 1: Build 4 independent projects
 - [ ] Phase 2: Solve 20-30 LeetCode problems
