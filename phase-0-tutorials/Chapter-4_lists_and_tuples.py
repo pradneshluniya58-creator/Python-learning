@@ -5,3 +5,6 @@
 #listname.iinser(i,a) //adds a at the i index of the given list
 #listname.pop(i) // removes the element at index i , removes the end element if unspecified
 #listname.remove(a) // Removes The fist occurence given value(int,str,list etc) from the list
+#list is written like L1 = [a , b,c ,   d ,e ,f ,g ,h , "pradv"] etc
+#tuple is imutable , can't change ie it is const throught the program
+# tuple ia written like a = () or (1, e ,r ,"oaw b") etc  
